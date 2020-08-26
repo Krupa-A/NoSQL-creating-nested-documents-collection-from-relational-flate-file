@@ -1,0 +1,180 @@
+{
+    "Departments": [
+        {
+            "_id": 7,
+            "Dname": "Hardware",
+            "MGR_Fname": "Alex",
+            "MGR_Lname": "Freed",
+            "employeess": [
+                {
+                    "EMP_Fname": "Bonnie",
+                    "EMP_Lname": "Bays",
+                    "Salary": 70000
+                },
+                {
+                    "EMP_Fname": "Alec",
+                    "EMP_Lname": "Best",
+                    "Salary": 60000
+                },
+                {
+                    "EMP_Fname": "Sam",
+                    "EMP_Lname": "Snedden",
+                    "Salary": 48000
+                },
+                {
+                    "EMP_Fname": "Jose",
+                    "EMP_Lname": "Barbara",
+                    "Salary": 35000
+                },
+                {
+                    "EMP_Fname": "Gregory",
+                    "EMP_Lname": "Laurie",
+                    "Salary": 90000
+                },
+                {
+                    "EMP_Fname": "Leonard",
+                    "EMP_Lname": "Moody",
+                    "Salary": 45000
+                },
+                {
+                    "EMP_Fname": "Alex",
+                    "EMP_Lname": "Yu",
+                    "Salary": 50000
+                }
+            ]
+        },
+        {
+            "_id": 6,
+            "Dname": "Software",
+            "MGR_Fname": "Jared",
+            "MGR_Lname": "James",
+            "employeess": [
+                {
+                    "EMP_Fname": "Jon",
+                    "EMP_Lname": "Jones",
+                    "Salary": 45000
+                },
+                {
+                    "EMP_Fname": "Justin",
+                    "EMP_Lname": "Mark",
+                    "Salary": 40000
+                },
+                {
+                    "EMP_Fname": "Brad",
+                    "EMP_Lname": "Knight",
+                    "Salary": 44000
+                },
+                {
+                    "EMP_Fname": "Sunil",
+                    "EMP_Lname": "Gupta",
+                    "Salary": 80000
+                }
+            ]
+        },
+        {
+            "_id": 8,
+            "Dname": "Sales",
+            "MGR_Fname": "John",
+            "MGR_Lname": "James",
+            "employeess": [
+                {
+                    "EMP_Fname": "Nandita",
+                    "EMP_Lname": "Ball",
+                    "Salary": 62000
+                },
+                {
+                    "EMP_Fname": "Erin",
+                    "EMP_Lname": "Maxfield",
+                    "Salary": 72000
+                },
+                {
+                    "EMP_Fname": "Wilson",
+                    "EMP_Lname": "Holmes",
+                    "Salary": 72500
+                }
+            ]
+        },
+        {
+            "_id": 9,
+            "Dname": "HR",
+            "MGR_Fname": "Juan",
+            "MGR_Lname": "Linda",
+            "employeess": [
+                {
+                    "EMP_Fname": "willie",
+                    "EMP_Lname": "Mary",
+                    "Salary": 12000
+                },
+                {
+                    "EMP_Fname": "Jake",
+                    "EMP_Lname": "Sheen",
+                    "Salary": 52000
+                }
+            ]
+        },
+        {
+            "_id": 5,
+            "Dname": "Research",
+            "MGR_Fname": "Franklin",
+            "MGR_Lname": "Wong",
+            "employeess": [
+                {
+                    "EMP_Fname": "John",
+                    "EMP_Lname": "Smith",
+                    "Salary": 30000
+                },
+                {
+                    "EMP_Fname": "Ramesh",
+                    "EMP_Lname": "Narayan",
+                    "Salary": 38000
+                },
+                {
+                    "EMP_Fname": "Joyce",
+                    "EMP_Lname": "English",
+                    "Salary": 25000
+                }
+            ]
+        },
+        {
+            "_id": 4,
+            "Dname": "Administration",
+            "MGR_Fname": "Jennifer",
+            "MGR_Lname": "Wallace",
+            "employeess": [
+                {
+                    "EMP_Fname": "Alicia",
+                    "EMP_Lname": "Zelaya",
+                    "Salary": 25000
+                },
+                {
+                    "EMP_Fname": "Ahmad",
+                    "EMP_Lname": "Jabbar",
+                    "Salary": 25000
+                }
+            ]
+        },
+        {
+            "_id": 1,
+            "Dname": "Headquarters",
+            "MGR_Fname": "James",
+            "MGR_Lname": "Borg",
+            "employeess": [
+                {
+                    "EMP_Fname": "Franklin",
+                    "EMP_Lname": "Wong",
+                    "Salary": 40000
+                },
+                {
+                    "EMP_Fname": "Jennifer",
+                    "EMP_Lname": "Wallace",
+                    "Salary": 43000
+                },
+                {
+                    "EMP_Fname": "Sheldon",
+                    "EMP_Lname": "Cucuou",
+                    "Salary": 35500
+                }
+            ]
+        }
+    ]
+}
